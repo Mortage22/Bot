@@ -3,7 +3,7 @@ import json
 from telebot import types
 from main import *
 
-token = open('token').read()
+token = open('6169527483:AAEF20EPeo6wmT66THYa5RU3stTuiNYfYQ8').read()
 bot = telebot.TeleBot(token)
 bd = {}
 
